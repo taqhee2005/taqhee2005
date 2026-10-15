@@ -1,4 +1,4 @@
-![profile Banner](https://github.com/taqhee2005/taqhee2005/blob/main/Cinematic%20Developer%20Workspace%20at%20Twilight.png)
+![profile Banner](https://github.com/taqhee2005/taqhee2005/blob/main/Pirate%20Skull%20and%20Crossbones_%20The%20Vault.png)
 <h1 align="center">Hi 👋, I'm Mohammed Taqhee Mk</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
